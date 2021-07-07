@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+img{
+  margin: 0 auto;
+}
+
+a{
+  padding: 10px;
+}
+
+nav{
+  text-align: center;
+}
+
+figcaption{
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  background: red;
+  
+}
